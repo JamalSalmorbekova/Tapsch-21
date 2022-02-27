@@ -1,0 +1,6 @@
+package com.company;
+
+public enum Ekynjuma {
+    DYISCHOMBY,SCHARSCHEMBI,SCHEISCHEMBI,BEISCHEMBI,JUMA,ISCHEMBI,JECSCHEMBI
+
+}
